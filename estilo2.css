@@ -1,0 +1,6 @@
+div#container{
+    margin: auto;
+    width: 350px;
+    height: 500px;
+    background-color: bisque;
+}
